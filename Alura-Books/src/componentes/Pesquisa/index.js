@@ -48,7 +48,7 @@ const Resultado = styled.div`
 function Pesquisa() {
     const [livrosPesquisados, setLivrosPesquisados] = useState([])
 
-    return (
+    return(
         <PesquisaContainer>
             <Titulo>Já sabe por onde começar?</Titulo>
             <Subtitulo>Encontre seu livro em nossa estante.</Subtitulo>
@@ -65,7 +65,7 @@ function Pesquisa() {
                     <img src={livro.src}/>
                     <p>{livro.nome}</p>
                 </Resultado>
-            ) ) }
+            ))}
         </PesquisaContainer>
     )
 }

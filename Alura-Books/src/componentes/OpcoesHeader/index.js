@@ -19,11 +19,11 @@ const Opcoes = styled.ul`
 const textoOpcoes = ['CATEGORIAS', 'FAVORITOS', 'MINHA ESTANTE']
 
 function OpcoesHeader() {
-    return (
+    return(
         <Opcoes>
             { textoOpcoes.map( (texto) => (
                 <Opcao><p>{texto}</p></Opcao>
-            ) ) }
+            ))}
       </Opcoes>
     )
 }
