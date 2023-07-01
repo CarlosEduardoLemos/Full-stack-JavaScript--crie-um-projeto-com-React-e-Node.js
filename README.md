@@ -62,4 +62,10 @@ Se você encontrar algum problema, tiver sugestões de melhorias ou quiser contr
 
 ## Contato
 
-Se você tiver alguma dúvida adicional ou precisar de
+Fique à vontade para entrar em contato caso tenha alguma dúvida, sugestão ou apenas queira trocar ideias. Estou sempre disponível para ajudar!
+
+- E-mail: lemosecarlos@gmail.com
+- Twitter: [@kadu_Karlinhos](https://twitter.com/kadu_Karlinhos)
+- LinkedIn: [Carlos Lemos](https://www.linkedin.com/in/carlos-eduardo-de-souza-lemos/)
+
+Não hesite em me contatar, estou ansioso para colaborar com você!
