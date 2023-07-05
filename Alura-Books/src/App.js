@@ -12,9 +12,9 @@ const AppContainer = styled.div`
 function App() {
   return (
     <AppContainer>
-      <Header />
-      <Pesquisa />
-      <UltimosLancamentos />
+      <Header/>
+      <Pesquisa/>
+      <UltimosLancamentos/>
     </AppContainer>
   );
 }
